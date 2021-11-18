@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react_session_timer/static/css/main.f181c611.chunk.css",
+    "main.js": "/react_session_timer/static/js/main.bd3a852f.chunk.js",
+    "main.js.map": "/react_session_timer/static/js/main.bd3a852f.chunk.js.map",
+    "runtime-main.js": "/react_session_timer/static/js/runtime-main.5c6ef823.js",
+    "runtime-main.js.map": "/react_session_timer/static/js/runtime-main.5c6ef823.js.map",
+    "static/js/2.a2437b0b.chunk.js": "/react_session_timer/static/js/2.a2437b0b.chunk.js",
+    "static/js/2.a2437b0b.chunk.js.map": "/react_session_timer/static/js/2.a2437b0b.chunk.js.map",
+    "index.html": "/react_session_timer/index.html",
+    "static/css/main.f181c611.chunk.css.map": "/react_session_timer/static/css/main.f181c611.chunk.css.map",
+    "static/js/2.a2437b0b.chunk.js.LICENSE.txt": "/react_session_timer/static/js/2.a2437b0b.chunk.js.LICENSE.txt",
+    "static/media/down-svgrepo-com.f9e6946e.svg": "/react_session_timer/static/media/down-svgrepo-com.f9e6946e.svg",
+    "static/media/iconmonstr-media-control-49.418b9d2a.svg": "/react_session_timer/static/media/iconmonstr-media-control-49.418b9d2a.svg",
+    "static/media/iconmonstr-video-15(1).dc236b09.svg": "/react_session_timer/static/media/iconmonstr-video-15(1).dc236b09.svg",
+    "static/media/power-cycle-svgrepo-com.8894c430.svg": "/react_session_timer/static/media/power-cycle-svgrepo-com.8894c430.svg",
+    "static/media/up-svgrepo-com.4324c2e8.svg": "/react_session_timer/static/media/up-svgrepo-com.4324c2e8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c6ef823.js",
+    "static/js/2.a2437b0b.chunk.js",
+    "static/css/main.f181c611.chunk.css",
+    "static/js/main.bd3a852f.chunk.js"
+  ]
+}
